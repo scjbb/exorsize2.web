@@ -1,0 +1,82 @@
+/* Set the width of the left section */
+body {
+    font-family: 'Abril Fatface', serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #8cc5ff;
+    background-color: #252327;
+    margin: 1px;
+    padding: 1px;
+
+
+
+
+}
+
+
+.PFormat {
+    font-family: 'Abril Fatface', serif;
+    font-family: 'Roboto', sans-serif;
+    text-indent: 50px;
+    color: #dae9ff;
+    text-align: left;
+
+
+
+}
+
+.AIWRITTEN {
+
+    font-family: 'Abril Fatface', serif;
+    font-family: 'Roboto', sans-serif;
+    width: 40%;
+
+    border-style: solid;
+    border-color: aquamarine;
+    margin: 10px;
+    padding: 15px;
+
+}
+
+.title {
+    font-family: 'Abril Fatface', serif;
+    color: rgb(125, 209, 181);
+    text-decoration: underline;
+    text-decoration-color: #ffffff;
+    text-align: center;
+
+}
+
+h2 {
+    text-decoration: underline;
+    text-decoration-color: #0006be;
+}
+
+/* Set the width of the right sections */
+.CODINGTYPE {
+    width: 50%;
+    position: absolute;
+    top: 15%;
+    right: 2%;
+    border-style: solid;
+    border-color: aquamarine;
+    margin: 10px;
+    padding: 15px;
+
+
+
+
+}
+
+.FAVTYPE {
+    width: auto;
+    position: absolute;
+    top: 100%;
+    right: 2%;
+    border-style: solid;
+    border-color: aquamarine;
+    margin: 10px;
+    padding: 15px;
+    align-items: center;
+
+}
